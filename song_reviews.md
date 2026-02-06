@@ -1,0 +1,2 @@
+| Song Title | Rating | Notes |
+| ---------- | ------ | ----- |
