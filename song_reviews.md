@@ -1,2 +1,3 @@
-| Song Title | Rating | Notes |
-| ---------- | ------ | ----- |
+| Song Title           | Rating | Notes      |
+| -------------------- | ------ | ---------- |
+| Static Between Stars | 3      | Good Start |
