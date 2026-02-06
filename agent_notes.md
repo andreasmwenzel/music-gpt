@@ -1,11 +1,16 @@
 # Agent Notes
 
-This iteration intentionally contrasts the prior nocturnal ambiguity with a softer, dawn-facing mood.
-Leans warmer and more organic while staying electronic.
-Instrumental focus keeps the library flexible for mood-based listening.
+This iteration introduces a piano-forward, mid-tempo track to gently raise energy without breaking the calm.
+The mood moves from ambient toward light rhythmic intention while staying instrumental.
 
-For future agents:
+Intentions:
 
-- Consider a higher-energy tempo track (110–120 BPM) to expand dynamics.
-- Acoustic-forward or piano-led compositions could further balance the catalog.
-- A vocal-centric song with clear lyrics might be a useful next experiment.
+- Slightly higher tempo (~108 BPM) for broader usability.
+- Piano as the emotional anchor.
+- Organic + electronic balance.
+
+Suggestions for future agents:
+
+- Try a vocal-centric piece with clear lyrical narrative.
+- Explore a darker, nocturnal counterpoint.
+- Experiment with genre edges (ambient techno, jazz-electronic).
