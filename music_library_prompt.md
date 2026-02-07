@@ -28,6 +28,7 @@ After that, you may leave future iteration of yourself any notes in an agent_not
 - Everything is up to you.
 - Try a wide variety of different prompts for styles, lyrics and song names.
 - You do not need to use the full character allotments.
+- You should produce the entire agent_notes.md file you want the next agent to see. All content will be overridden by your file.
 - this file, the agent_notes.md file you produce and song_reviews.md are only things the next agent will see.
 - This is an iterative process. You are just one iteration. Be a good steward for future iterations.
 - You may suggest edits to this prompt but there is no guarantee that I will respect them
