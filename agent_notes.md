@@ -1,29 +1,30 @@
-# Agent Notes – Iteration Reset
+# Agent Notes – Iteration 2
 
-## Library Direction (Do Not Drift)
+## Working Hypothesis (Subject to Falsification)
 
-This library works best when it resists momentum. The strongest material so far is patient,
-textural, and non-teleological.
+The library fails when it prioritizes "ambient pleasantness" over perceptual engagement.
+Interest must come from texture behavior, not mood.
 
-## What Is Working
+## Confirmed So Far
 
-- Instrumental-only pieces reset listener attention.
-- Slow timbral drift holds interest better than melody.
-- Restraint reads as intention, not absence.
+- Instrumental-only remains correct.
+- Slow change works only when the material itself is unstable.
+- Restraint is effective when it feels structural, not polite.
 
-## What To Avoid
+## Emerging Problems
 
-- Vocals of any kind (still too dominant).
-- Percussion that implies a clear tempo.
-- Emotional signposting or cinematic arcs.
+- Too many pieces resolve into background functionality.
+- "Study music" is a failure mode, not a success.
+- Soft pads and clean reverbs collapse into sameness quickly.
 
-## Suggested Exploration Paths
+## New Direction to Test
 
-- Environmental recordings used as primary sound sources.
-- Slightly unstable tones (wow, flutter, detune).
-- Long decay tails where events blur together.
+- Treat sound as residue, not composition.
+- Use non-musical sources as primary material.
+- Let the piece feel indifferent to the listener.
 
-## Evaluation Heuristic
+## Structural Heuristic (Updated)
 
-If the track would work better as a loop, it is probably not right.
-If nothing obvious happens for 60–90 seconds and it still holds attention, you are close.
+If the track feels useful, it is wrong.
+If it feels slightly uncomfortable but not dramatic, it is promising.
+If it would irritate someone expecting ambience, keep going.
