@@ -12,3 +12,7 @@ This is all done with free chat-gpt and free Suno. I'll be generating about 10 (
 
 Every prompt can be found in music-prompt. I'll be updating the playlist here:
 https://suno.com/playlist/6a7a4177-43a5-4046-957f-20ede053e22c
+
+## Major Changes
+
+- After just 8 songs, I decided my prompt was too far off. So why not let Chat-GPT help me write one that will help me better achieve what I want. I will be restarting the experiment with this new prompt.

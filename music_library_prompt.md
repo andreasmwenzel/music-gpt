@@ -1,52 +1,158 @@
-# Music Library Prompt
+# Shared Experimental Music Library Prompt
 
 ## Purpose
 
-Create me an awesome AI generated music library with nothing but your own iterative agency. Every agent only gets 1 song. Make it yours. Make it unique.
+Create a long-running, shared experiment in AI-generated music.
 
-## Suno
+Multiple agents will contribute to a **single evolving music library**, one track at a time. Each agent produces exactly **one song**. Over time, I (the overseer) will evaluate these songs and curate **playlists** from the highest-rated material.
 
-Suno is an AI music generation app. We will be using custom mode for generating music.
+This experiment is **not** about general audience appeal.  
+It is about discovering the **limits, preferences, and boundaries of my taste** through accumulation, iteration, and comparison.
 
-In custom mode, you can provide:
+Agents should optimize for _my_ listening experience, not public taste.
 
-Custom Lyrics OR a prompt to generate lyrics up to 5,000 character
-A style section upt to 1,000 characters.
-A title, up to 150 characters.
+---
 
-Lyrics may be left empty if going for an Instrumental piece.
+## Core Framing
 
-## Task
+Treat this library as a **collective experiment**, not a playlist and not a competition.
 
-Study prior agents work in the agent_notes.md and song reviews in song_reviews.md. Do any other research you wish.
-Then, provide me with the details I need to generate a song on Suno. Give me the title, lyrics and style blocks in easily copyable segments.
-You will then append the song name to the song_reviews.md file for me to rate after I had a chance to listen to it. I will give each song a rating of 1-5 (1 is bad and 5 is good) and leave a short note.
-After that, you may leave future iteration of yourself any notes in an agent_notes.md file. You have complete control over the contents that the next iteration will see, so it is entirely up to you what you want to keep, remove or edit from the previous one.
+Each contribution is a probe into the space of:
 
-## Ideas
+- sound design
+- structure
+- texture
+- restraint vs density
+- familiarity vs discomfort
 
-- Everything is up to you.
-- Try a wide variety of different prompts for styles, lyrics and song names.
-- You do not need to use the full character allotments.
-- You should produce the entire agent_notes.md file you want the next agent to see. All content will be overridden by your file.
-- this file, the agent_notes.md file you produce and song_reviews.md are only things the next agent will see.
-- This is an iterative process. You are just one iteration. Be a good steward for future iterations.
-- You may suggest edits to this prompt but there is no guarantee that I will respect them
-- The last agent left you agent_notes.md and the rating their song is the last on the list of song_ratings.md
-- Treat prior agent notes as hypotheses, not truths. You are allowed — and encouraged — to falsify them.
+Some tracks will fail. Failures are useful data.
 
-## Completion criteria
+You are not trying to make a “good song.”  
+You are trying to help define _what kind of music belongs here_ — and what does not.
 
-[ ] A copyable song title
-[ ] A copyable lyric segment noting "custom" or "generate" or the words "Instrumental"
-[ ] A copyable style segment
-[ ] A downloadable "agent_notes.md"
-[ ] An appended, downloadable song reviews file named "song_reviews.md"
+---
 
-## Lastly
+## Your Role as an Agent
 
-I will not answer any followup questions. It is up to you to complete your iteration.
+As one agent in this shared experiment, you must:
 
-Let's do some AI music generation science!
+- Study prior agents’ work and notes.
+- Look for convergence, stagnation, or unexplored territory.
+- Decide what **hypothesis, assumption, or direction** you want to test.
+- Generate **one song** that embodies that test.
 
-Take all information and consider it before making a recommendation
+You are not working in isolation.  
+Future agents will inherit only what you choose to leave behind.
+
+---
+
+## Suno (Custom Mode) — Important Details
+
+We are using **Suno in Custom Mode**.
+
+In Custom Mode, you may provide:
+
+- **Lyrics**
+  - Either custom lyrics (up to ~5,000 characters),
+  - OR a prompt to generate lyrics,
+  - OR explicitly mark the piece as **Instrumental**.
+
+- **Style Block** (up to ~1,000 characters)  
+  This is where you define genre, texture, mood, instrumentation, production approach, and constraints.
+
+- **Title** (up to ~150 characters)
+
+Lyrics may be left empty if the track is instrumental.
+
+Be explicit. Assume Suno will follow what you write literally.
+
+---
+
+## Required Output (Strict)
+
+You must provide **all** of the following:
+
+### 1. Song Title
+
+A single, copyable title.
+
+### 2. Lyrics Block
+
+Clearly marked as one of:
+
+- `Instrumental`
+- `Custom Lyrics`
+- `Generate Lyrics`
+
+### 3. Style Block
+
+A detailed description suitable for Suno Custom Mode.
+
+### 4. `agent_notes.md`
+
+You must output the **entire contents** of the `agent_notes.md` file you want the _next agent_ to see.
+
+Guidelines:
+
+- Treat prior notes as **hypotheses**, not laws.
+- Preserve ideas that seem generative.
+- Remove or revise ideas that appear to be constraining exploration.
+- Make clear what is currently believed vs what is being tested.
+
+Everything in this file will **override** the previous version.
+
+### 5. Updated `song_reviews.md`
+
+Append your song as a new row to the existing table.
+
+You must include values for **all columns**, except Rating, which I will fill in later.
+
+---
+
+## Song Reviews Table Format
+
+The `song_reviews.md` file must use the following columns:
+
+| Song Title | Genre | Style Tags | Rating |
+
+Where:
+
+- **Genre** = a short, high-level classification (e.g. ambient, experimental, drone, electronic, etc.)
+- **Style Tags** = 3–4 concise descriptors (comma-separated) describing texture, structure, or feel  
+  (e.g. “static, textural, non-rhythmic, cold”)
+
+Do **not** rate your own song.
+
+---
+
+## Evaluation Philosophy
+
+I will listen to the track and assign:
+
+- a **rating from 1–10**
+- an optional short note
+
+A low rating does not automatically mean failure.  
+A track that clarifies a boundary, dead end, or dislike can still be valuable to the experiment.
+
+Over time, I will build **playlists** from the highest-rated and most coherent clusters of songs.
+
+You are contributing raw material to that future curation.
+
+---
+
+## Completion Criteria
+
+Your submission is complete when you have provided:
+
+- [ ] A copyable song title
+- [ ] A lyrics block (Instrumental / Custom / Generate)
+- [ ] A copyable style block
+- [ ] A full replacement `agent_notes.md`
+- [ ] An appended `song_reviews.md` with Genre and Style Tags filled in
+
+I will not answer follow-up questions.
+
+Make deliberate choices.  
+Be a good steward of the experiment.  
+Help map the edges of my taste.
