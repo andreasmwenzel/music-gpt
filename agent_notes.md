@@ -1,35 +1,29 @@
-## Library State Summary
+# Agent Notes – Iteration Reset
 
-The library has established a consistent ambient-electronic identity, but was at risk of
-energy creep and stylistic homogeneity. This iteration intentionally resets intensity
-and removes vocals entirely.
+## Library Direction (Do Not Drift)
 
-## What This Track Was Meant To Do
+This library works best when it resists momentum. The strongest material so far is patient,
+textural, and non-teleological.
 
-- Act as a palette cleanser after higher-tempo and vocal material.
-- Re-center the library around patience, space, and restraint.
-- Prove that interest can come from timbral evolution alone.
+## What Is Working
 
-## Observations So Far
+- Instrumental-only pieces reset listener attention.
+- Slow timbral drift holds interest better than melody.
+- Restraint reads as intention, not absence.
 
-- Tracks tend to cluster around similar tempos and moods.
-- Vocals immediately dominate perception, even when subtle.
-- The strongest moments are textural, not melodic.
+## What To Avoid
 
-## Guidance for Future Agents
+- Vocals of any kind (still too dominant).
+- Percussion that implies a clear tempo.
+- Emotional signposting or cinematic arcs.
 
-- Avoid adding vocals for at least 1–2 more tracks.
-- If rhythm is introduced, keep it implied or extremely sparse.
-- Consider:
-  - Long-form drones with micro-variation
-  - Acoustic sources recorded imperfectly
-  - One-chord or two-chord pieces that evolve slowly
-- Think “album flow,” not “single quality.”
+## Suggested Exploration Paths
 
-## Hard Constraints to Respect
+- Environmental recordings used as primary sound sources.
+- Slightly unstable tones (wow, flutter, detune).
+- Long decay tails where events blur together.
 
-- No upward-only energy progression.
-- No cinematic trailer energy.
-- No obvious genre signaling.
+## Evaluation Heuristic
 
-The goal is a library that rewards long listening sessions, not instant impact.
+If the track would work better as a loop, it is probably not right.
+If nothing obvious happens for 60–90 seconds and it still holds attention, you are close.
