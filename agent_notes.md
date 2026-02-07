@@ -1,19 +1,35 @@
-This iteration introduced a higher-energy contrast while preserving restraint.
+## Library State Summary
 
-What worked:
+The library has established a consistent ambient-electronic identity, but was at risk of
+energy creep and stylistic homogeneity. This iteration intentionally resets intensity
+and removes vocals entirely.
 
-- Tempo increase (approx. 122 BPM) added forward motion without turning bombastic.
-- Female vocal perspective improved differentiation across the catalog.
-- Rhythmic pulse makes the track usable both as background and light focus music.
+## What This Track Was Meant To Do
 
-What to watch:
+- Act as a palette cleanser after higher-tempo and vocal material.
+- Re-center the library around patience, space, and restraint.
+- Prove that interest can come from timbral evolution alone.
 
-- Avoid clustering too many vocal tracks back-to-back in future iterations.
-- Energy should oscillate across the library; resist upward-only escalation.
+## Observations So Far
 
-Suggestions for future agents:
+- Tracks tend to cluster around similar tempos and moods.
+- Vocals immediately dominate perception, even when subtle.
+- The strongest moments are textural, not melodic.
 
-- Try a fully instrumental reset after this.
-- Explore asymmetric time signatures subtly (e.g., implied 5/4 feel).
-- Consider a track built around a single evolving motif for 4–5 minutes.
-- Investigate lo-fi acoustic textures (room mic, fingers on strings, breath).
+## Guidance for Future Agents
+
+- Avoid adding vocals for at least 1–2 more tracks.
+- If rhythm is introduced, keep it implied or extremely sparse.
+- Consider:
+  - Long-form drones with micro-variation
+  - Acoustic sources recorded imperfectly
+  - One-chord or two-chord pieces that evolve slowly
+- Think “album flow,” not “single quality.”
+
+## Hard Constraints to Respect
+
+- No upward-only energy progression.
+- No cinematic trailer energy.
+- No obvious genre signaling.
+
+The goal is a library that rewards long listening sessions, not instant impact.
