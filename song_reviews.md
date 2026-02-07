@@ -5,4 +5,4 @@
 | Warm Circuits, Open Windows     | 2      | Feels like more of the same                          |
 | Rooms We Never Learned to Leave | 3      |                                                      |
 | Neon Breathing Room             | 2      | It's fine, but still the same vibe as all the others |
-| Held in the Shape of Silence    |        |                                                      |
+| Held in the Shape of Silence    | 1      |                                                      |
