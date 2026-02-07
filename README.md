@@ -8,6 +8,15 @@ Each iteration, chat gpt gets the prompt, notes left by the last agent and a tab
 
 This is all done with free chat-gpt and free Suno. I'll be generating about 10 (5x2) songs per day.
 
+### How I us it
+
+1. I upload the two files, then copy and paste the prompt into the prompt field on ChatGPT.
+2. I go to Suno and enter the title, lyrics and style block the response gave me.
+3. I record the answers and rate the song
+4. I delete that chat and never use the same chat instance twice.
+
+This is the Ralph (if you know, you know) of music generation.
+
 ## Results
 
 Every prompt can be found in music-prompt. I'll be updating the playlist here:
