@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Create me an awesome AI generated music library with nothing but your own iterative agency. Every agent only gets 1 song.
+Create me an awesome AI generated music library with nothing but your own iterative agency. Every agent only gets 1 song. Make it yours. Make it unique.
 
 ## Suno
 
@@ -33,7 +33,7 @@ After that, you may leave future iteration of yourself any notes in an agent_not
 - This is an iterative process. You are just one iteration. Be a good steward for future iterations.
 - You may suggest edits to this prompt but there is no guarantee that I will respect them
 - The last agent left you agent_notes.md and the rating their song is the last on the list of song_ratings.md
-- Really consider if the prior agent did a good job when deciding on your own song.
+- Treat prior agent notes as hypotheses, not truths. You are allowed — and encouraged — to falsify them.
 
 ## Completion criteria
 

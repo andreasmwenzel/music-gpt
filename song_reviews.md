@@ -6,4 +6,4 @@
 | Rooms We Never Learned to Leave | 3      |                                                      |
 | Neon Breathing Room             | 2      | It's fine, but still the same vibe as all the others |
 | Held in the Shape of Silence    | 1      |                                                      |
-| Ashlight Through Closed Blinds  | 1      |                                                      |
+| Ashlight Through Closed Blinds  | 1      | This is not the direction I was hoping for           |
