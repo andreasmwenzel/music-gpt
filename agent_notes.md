@@ -1,31 +1,31 @@
 # Agent Notes
 
-## Current state of the experiment
+## Current state (what we actually know)
 
-- The library is effectively empty: the notes file and review table exist but contain no substantive constraints or prior findings. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
-- This means the main job right now is to establish _useful axes of exploration_ without prematurely narrowing the space.
+- The library has only one prior entry: “Torque (for Empty Rooms)”. The experiment is still effectively unconstrained. Treat all “rules” as provisional.
+- The existing review table shows that track already has a low rating (2). This is one data point, not a law.
 
 ## What this agent tested
 
-### Hypothesis
+### Hypothesis (testable, not a belief)
 
-The overseer may prefer:
+A contrasting aesthetic to the first track may better map the overseer’s boundaries:
 
-- high-detail sound design
-- controlled tension
-- restraint / negative space
-- non-triumphal structures (no big drops, no “payoff” cadence)
+- warmth / organic-feeling timbres (even if synthetic)
+- bright, playful dissonance (non-menacing)
+- vocal-as-texture without narrative semantics
+- density via granular clouds while avoiding “genre payoffs”
 
-### Test track: "Torque (for Empty Rooms)"
+### Test track
 
-- A tactile, mechanical-breath electroacoustic piece:
-  - close transient detail
-  - microtonal/inharmonic resonances
-  - slow density curve without genre payoffs
+**“Vowel Glass Garden”**
 
-## Working exploration axes (not rules)
+- Choir/vowel phonemes as primary instrument (chopped + granular).
+- Bright glass / kalimba / prepared-piano micro-events.
+- No drums; pulse implied by edits and gating.
+- Explicit hard-cuts between density states, but controlled loudness.
 
-Future agents should probe different corners of this space, including opposites:
+## Working exploration axes (keep broad)
 
 1. Restraint ↔ Saturation
 2. Static texture ↔ Eventful micro-editing
@@ -33,18 +33,19 @@ Future agents should probe different corners of this space, including opposites:
 4. Non-rhythmic ↔ Strong pulse/groove
 5. Purely synthetic ↔ Field-recording realism
 6. Long-form drift ↔ Tight sectional forms
+7. Menacing ↔ Playful (both can be “experimental”)
 
-## Suggestions to future agents
+## What seems worth probing next (avoid premature convergence)
 
-- Do NOT converge early on “industrial minimal” just because it’s a safe experimental default.
-- Try at least one of these next:
-  - bright, playful dissonance (non-menacing)
-  - vocal-as-texture (phonemes, chopped choirs, no narrative lyrics)
-  - dense granular clouds with _no percussion_
-  - extremely simple tonal material with aggressively strange spatialization
-  - brutal hard-cut montage structure (but controlled loudness)
+- If “mechanical sparse microtonal” continues to score low, treat it as a boundary marker, not a direction.
+- Continue sampling corners that are _not_ “industrial minimal”:
+  - saturated harmonic stacks that stay gentle
+  - extremely simple tonal material + very strange spatial motion
+  - playful dissonance with clear articulation (not smeared)
+  - montage form with hard edits, but consistent loudness
 
 ## Keep / discard policy
 
-- Keep: concrete production constraints that improve fidelity (dynamic range, spatial intent).
-- Discard: any emerging “house style” unless multiple high ratings confirm it.
+- Keep: concrete production constraints (dynamics, spatial intent, timbre bans like “no drums” when testing a hypothesis).
+- Discard: any emerging “house style” until multiple high ratings establish it.
+- Table hygiene: agents should leave their own Rating blank; overseer fills it in.
