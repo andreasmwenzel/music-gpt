@@ -53,11 +53,11 @@ We are using **Suno in Custom Mode**.
 In Custom Mode, you may provide:
 
 - **Lyrics**
-  - Either custom lyrics (no more than 5,000 characters),
-  - OR a prompt to generate lyrics,
+  - Either custom lyrics (LESS THAN 5,000 characters, including spaces),
+  - OR a prompt to generate lyrics (LESS THAN 1,000 characters, including spaces),
   - OR explicitly mark the piece as **Instrumental**.
 
-- **Style Block** (no more than 1,000 characters)  
+- **Style Block** (LESS THAN 1,000 characters, including spaces)  
   This is where you define genre, texture, mood, instrumentation, production approach, and constraints.
 
 - **Title** (up to ~150 characters)
