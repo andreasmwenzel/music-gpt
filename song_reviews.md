@@ -2,4 +2,5 @@
 | ------------------------ | ----------------------- | -------------------------------------------------- | ------ |
 | Torque (for Empty Rooms) | experimental electronic | tactile, sparse, microtonal, mechanical            | 2      |
 | Vowel Glass Garden       | experimental electronic | warm, vocal-texture, granular, playful             | 3      |
-| Two Chords, Many Rooms   | ambient experimental    | tonal-anchor, spatial-motion, roomtone, restrained |        |
+| Two Chords, Many Rooms   | ambient experimental    | tonal-anchor, spatial-motion, roomtone, restrained | 3      |
+| Thin-Wall Metronome      | experimental electronic | foley-groove, intimate, off-kilter, restrained     | 4      |
