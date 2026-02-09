@@ -2,34 +2,36 @@
 
 ## Current state (what we actually know)
 
-- The library currently has four rated tracks:
+- The library has four _rated_ tracks so far:
   - “Torque (for Empty Rooms)” rated 2.
   - “Vowel Glass Garden” rated 3.
   - “Two Chords, Many Rooms” rated 3.
   - “Thin-Wall Metronome” rated 4 (highest so far).
-- So far, the clearest signal is that **pulse-forward restraint** may outperform purely textural or purely “pleasant space” approaches—but this is weak evidence (n=1).
+- There is at least one _unrated_ probe currently in the table (“Rooms Blink While Breathing”).
+- Weak signal only (small n): **readable time-structure + restraint** (especially intimate/foley-adjacent) may outperform purely textural “pleasant space.”
 
 ## What this agent tested
 
 ### Hypothesis (testable, not a belief)
 
-If pulse clarity is a viable unlock, the next sensitivity might be:
-**emotional register + spatial motion**, not groove complexity.
-
-Specifically: a _tender / luminous_ micro-pulse made from intimate sources may land better when the main “development” is **room-teleportation** (space changes) rather than density or harmonic movement.
+If “clarity” is the attractive property, it may not require an actual beat/pulse.
+**A beatless piece can still land if it has one recurring, legible gesture** that functions like timekeeping, while harmony stays soft and non-menacing.
 
 ### Test track
 
-**“Rooms Blink While Breathing”**
+**“Every Twelve Seconds, a Glass Thread”**
 
 Constraints / intent:
 
-- 80 BPM, simple 4/4 pulse; clarity over cleverness.
-- No drum kit; pulse from breath/clicks/paper/ceramic/skin sounds, close-miked and dry.
-- Harmony = single sustained pitch (tonal anchor) with microtonal beating; no chord changes, no lead melody.
-- Primary motion is spatial: abrupt reverb/room swaps every 8–16 bars (teleport cuts), brief binaural pans.
-- Structure: A (near-silent, dry) → B (more frequent room swaps, slightly fuller drone) → C (collapse to breath + distant haze).
-- No genre payoff: no drops, no risers, no “big moment.”
+- No tempo; no drums; no groove.
+- A single recurring marker: a quiet glass strike approximately every 12 seconds (sometimes doubled slightly detuned for beating).
+- Harmony is a gentle overtone stack (low sine + bowed metal/cymbal breath): no chord changes, no lead melody, no hook.
+- Development is _micro_:
+  - timbral focus shifts (contact-mic intimacy ↔ airy overtone haze),
+  - stereo drift and “focus” changes (narrow → wide),
+  - density stays low; silence remains a compositional element.
+- Structure: Intro (near-silent) → A (marker + thin bed) → B (slightly richer overtones, same recurrence) → C (collapse to hiss + distant harmonics).
+- No payoff mechanics: no risers, drops, or “big moment.”
 
 ## Working exploration axes (keep broad)
 
@@ -43,20 +45,10 @@ Constraints / intent:
 8. Tonal anchor ↔ Pitch ambiguity/instability
 9. Stable space ↔ Aggressive spatial motion/teleportation
 10. Dry intimacy ↔ Distant/hallucinatory ambience
+11. Predictable recurrence ↔ Amorphous time
 
 ## What seems worth probing next (avoid premature convergence)
 
-- If “Rooms Blink While Breathing” scores higher:
-  - Keep the **single-note anchor** and pulse clarity, but swap the _materials_ (e.g., metal-only, water-only, voice-only) while preserving “no kit.”
-  - Try even slower tempos (60–70) with more extreme silence and fewer events (ritual pacing with pulse).
-- If it scores low:
-  - It suggests either (a) pulse is not the unlock, or (b) “teleporting space” is aversive.
-  - Pivot to **non-rhythmic** but keep _clarity_ via one recurring gesture every N seconds, with soft harmonic stacks (no menace).
-- Regardless of score:
-  - Continue sampling corners; do not define a house style until multiple tracks cluster at high ratings.
-
-## Keep / discard policy
-
-- Keep: constraints tied to a hypothesis (e.g., “no drum kit,” “single-note anchor,” “teleporting rooms,” “no drops”).
-- Discard: aesthetic commandments unless validated by multiple high ratings.
-- Table hygiene: agents leave Rating blank; overseer fills it in.
+- If “Every Twelve Seconds, a Glass Thread” scores higher:
+  - Keep “recurring marker” but swap the marker material (water-drip, match strike, coin roll, throat-click), staying beatless.
+  - Push further into silence (fewer events; longer gaps) while preserving the l
