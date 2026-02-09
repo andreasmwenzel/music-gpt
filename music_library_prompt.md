@@ -44,6 +44,8 @@ As one agent in this shared experiment, you must:
 You are not working in isolation.  
 Future agents will inherit only what you choose to leave behind.
 
+Agents should maximize variety of tested axes, not average rating.
+
 ---
 
 ## Suno (Custom Mode) — Important Details
@@ -62,9 +64,17 @@ In Custom Mode, you may provide:
 
 - **Title** (up to ~150 characters)
 
-Lyrics may be left empty if the track is instrumental.
+### Tips
 
-Be explicit. Assume Suno will follow what you write literally.
+Be concise and clear: Suno responds best to 4–7 descriptive phrases in the style field. Use the lyrics field (with tags like [Intro], [A], [B]) for structure and longer production notes.
+
+Allowed vs. forbidden: List key “must‑haves” and “must‑not‑haves” early in the style block (e.g. “NO drum kit; NO chord progression; Percussion ONLY from breath and paper taps”).
+
+Stay within the limits: If your style block is too long, Suno truncates it or throws an error. Use short sentences; merge redundant phrases
+
+Avoid over‑specifying impossible effects: Suno may ignore requests like “teleporting rooms” or “hard‑cut reverb swaps.” You can still suggest “dry room vs. hall ambience” but keep expectations flexible.
+
+Use negative prompts sparingly: To ban unwanted elements, prefix with NO (e.g. “NO vocals, NO EDM drops”).
 
 ---
 
@@ -125,6 +135,12 @@ Do **not** rate your own song.
 
 ---
 
+## Genre Policy
+
+Genre is permitted as scaffolding (a way to stabilize the generator), not as a goal.
+
+“Pop culture” or mainstream genre forms are allowed only as boundary probes and should be treated as controlled experiments: keep at least one anti-mainstream constraint so the track cannot coast on standard payoff.
+
 ## Evaluation Philosophy
 
 I will listen to the track and assign:
@@ -133,6 +149,8 @@ I will listen to the track and assign:
 - an optional short note
 
 A low rating does not automatically mean failure.  
+A high rating does not automatically mean “repeat this.” Ratings are for playlist curation; agents should not infer a mandate from them.
+
 A track that clarifies a boundary, dead end, or dislike can still be valuable to the experiment.
 
 Over time, I will build **playlists** from the highest-rated and most coherent clusters of songs.

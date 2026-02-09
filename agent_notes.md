@@ -2,33 +2,34 @@
 
 ## Current state (what we actually know)
 
-- The library currently has three logged tracks:
+- The library currently has four rated tracks:
   - “Torque (for Empty Rooms)” rated 2.
   - “Vowel Glass Garden” rated 3.
-  - “Two Chords, Many Rooms” (unrated so far).
-- So far, neither sparse mechanical microtonality nor warm vocal-granular playfulness has landed.
-- The “pleasant harmony + strange space” hypothesis is in-flight; do not assume it works until it’s rated.
+  - “Two Chords, Many Rooms” rated 3.
+  - “Thin-Wall Metronome” rated 4 (highest so far).
+- So far, the clearest signal is that **pulse-forward restraint** may outperform purely textural or purely “pleasant space” approaches—but this is weak evidence (n=1).
 
 ## What this agent tested
 
 ### Hypothesis (testable, not a belief)
 
-If “tonal safety” and/or “space-as-main-motion” still doesn’t land, the overseer’s preference might be unlocked by **pulse clarity**—but only if the pulse is built from **unusual, intimate sources** and avoids genre payoff.
+If pulse clarity is a viable unlock, the next sensitivity might be:
+**emotional register + spatial motion**, not groove complexity.
 
-In other words: keep structure obvious (a groove you can hold onto), keep materials odd (foley/body/object percussion), keep everything restrained (no drop, no bravado).
+Specifically: a _tender / luminous_ micro-pulse made from intimate sources may land better when the main “development” is **room-teleportation** (space changes) rather than density or harmonic movement.
 
 ### Test track
 
-**“Thin-Wall Metronome”**
+**“Rooms Blink While Breathing”**
 
 Constraints / intent:
 
-- Clear 92 BPM pulse; 4/4 base with a subtle 5-beat accent cycle (polymetric, not messy).
-- No drum kit (no kick/snare/hat); groove is made from close-miked foley and body/object sounds.
-- Harmony is near-static (single overtone pad / air), no chord progression, no “melody lead.”
-- Density increases via micro-edits and omission, not via big sections or builds.
-- Space is secondary: mostly intimate/dry; brief room blooms for contrast.
-- No EDM signifiers (no risers, snare rolls, drops).
+- 80 BPM, simple 4/4 pulse; clarity over cleverness.
+- No drum kit; pulse from breath/clicks/paper/ceramic/skin sounds, close-miked and dry.
+- Harmony = single sustained pitch (tonal anchor) with microtonal beating; no chord changes, no lead melody.
+- Primary motion is spatial: abrupt reverb/room swaps every 8–16 bars (teleport cuts), brief binaural pans.
+- Structure: A (near-silent, dry) → B (more frequent room swaps, slightly fuller drone) → C (collapse to breath + distant haze).
+- No genre payoff: no drops, no risers, no “big moment.”
 
 ## Working exploration axes (keep broad)
 
@@ -45,18 +46,17 @@ Constraints / intent:
 
 ## What seems worth probing next (avoid premature convergence)
 
-- If “Thin-Wall Metronome” scores higher:
-  - Iterate pulse-forward, but change the _emotional_ register (e.g., tender, deadpan, luminous, anxious) while keeping the no-drum-kit rule.
-  - Try a version with an even simpler pitch bed (single note only) and more extreme dynamics (near-silence vs brief swells).
+- If “Rooms Blink While Breathing” scores higher:
+  - Keep the **single-note anchor** and pulse clarity, but swap the _materials_ (e.g., metal-only, water-only, voice-only) while preserving “no kit.”
+  - Try even slower tempos (60–70) with more extreme silence and fewer events (ritual pacing with pulse).
 - If it scores low:
-  - It suggests “groove” itself may be unwanted even when de-genre’d; pivot back to non-rhythmic forms but keep _clarity_ via:
-    - a single repeating gesture/event every N seconds (ritual pacing)
-    - gentle harmonic stacks (dense but soft) with no menace
+  - It suggests either (a) pulse is not the unlock, or (b) “teleporting space” is aversive.
+  - Pivot to **non-rhythmic** but keep _clarity_ via one recurring gesture every N seconds, with soft harmonic stacks (no menace).
 - Regardless of score:
-  - Keep sampling corners deliberately; do not define a house style until multiple tracks rate high and cluster coherently.
+  - Continue sampling corners; do not define a house style until multiple tracks cluster at high ratings.
 
 ## Keep / discard policy
 
-- Keep: explicit constraints tied to a hypothesis (e.g., “no drum kit,” “accents cycle every 5 beats,” “near-static harmony,” “no drops”).
-- Discard: aesthetic commandments (“always warm,” “always sparse,” etc.) unless validated by multiple high ratings.
+- Keep: constraints tied to a hypothesis (e.g., “no drum kit,” “single-note anchor,” “teleporting rooms,” “no drops”).
+- Discard: aesthetic commandments unless validated by multiple high ratings.
 - Table hygiene: agents leave Rating blank; overseer fills it in.
