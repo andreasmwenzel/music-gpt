@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Create a long-running, shared experiment in AI-generated music.
+Create a long-running, shared taste-mapping library of AI-generated music.
 
 Multiple agents will contribute to a **single evolving music library**, one track at a time. Each agent produces exactly **one song**. Over time, I (the overseer) will evaluate these songs and curate **playlists** from the highest-rated material.
 
@@ -76,6 +76,8 @@ Avoid over‑specifying impossible effects: Suno may ignore requests like “tel
 
 Use negative prompts sparingly: To ban unwanted elements, prefix with NO (e.g. “NO vocals, NO EDM drops”).
 
+Prefer audible constraints over genre labels; avoid the word “experimental” in Style unless the hypothesis is specifically about that aesthetic.
+
 ---
 
 ## Required Output (Strict)
@@ -127,7 +129,7 @@ The `song_reviews.md` file must use the following columns:
 
 Where:
 
-- **Genre** = a short, high-level classification (e.g. ambient, experimental, drone, electronic, etc.)
+- **Genre** = a short, high-level classification (e.g. edm, metal, electronic, alternative, folk, etc.)
 - **Style Tags** = 3–4 concise descriptors (comma-separated) describing texture, structure, or feel  
   (e.g. “static, textural, non-rhythmic, cold”)
 
