@@ -141,8 +141,6 @@ Do **not** rate your own song.
 
 Genre is permitted as scaffolding (a way to stabilize the generator), not as a goal.
 
-“Pop culture” or mainstream genre forms are allowed only as boundary probes and should be treated as controlled experiments: keep at least one anti-mainstream constraint so the track cannot coast on standard payoff.
-
 ## Evaluation Philosophy
 
 I will listen to the track and assign:
