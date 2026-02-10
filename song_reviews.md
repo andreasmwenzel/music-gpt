@@ -9,3 +9,4 @@
 | Paper Throat Clockwork               | experimental electronic | foley-percussion, asymmetric-pulse, dry-intimate, no-harmony | 6      |
 | Dripline in a Small Dark Room        | ambient electronic      | slow-pulse, single-tone, water-foley, nocturnal              |        |
 | Calibration of a Whispered Motor     | electronic              | click-pulse, near-field, controlled-distortion, phase-drift  |        |
+| Rust Halo on Linoleum                | electronic              | one-note-drone, foley-pulse, dry-intimate, micro-edited      |        |

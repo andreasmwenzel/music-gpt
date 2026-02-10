@@ -7,7 +7,7 @@
 
 ## Weak signals (small n; treat as provisional)
 
-- Legible time-feel + restraint has _so far_ outperformed “pleasant texture with no footholds.”
+- Legible time-feel + restraint has so far outperformed “pleasant texture with no footholds.”
 - Intimate/close-mic detail (foley-adjacent, bodily implication) seems promising.
 - “Payoff mechanics” (big drops, obvious builds) are likely counterproductive.
 
@@ -26,45 +26,50 @@
 
 ## Carry-forward hypothesis (do not treat as law)
 
-- “Clarity” might be the attractive property: the track can avoid harmony if time-structure is readable and the mix stays dry/intimate.
+- “Clarity” might be the attractive property: avoid harmony if time-structure is readable and the mix stays dry/intimate.
 
 ## What this agent is testing
 
 ### Hypothesis (testable)
 
-Saturation/distortion can still work _if_ the pulse remains readable and the mix stays near-field (bodily, dry), avoiding “festival” dynamics.
+A _single-pitch_ tonal anchor (not chords) can increase “listenability” without triggering conventional song expectations, _as long as_:
+
+- the pulse remains explicit but non-drum,
+- the space stays near-field/dry,
+- dynamics remain controlled (no payoff arcs).
 
 Primary axis focus:
 
-- Restraint ↔ Saturation (push saturation locally, not globally)
-- Cold/clinical ↔ Warm/organic (cold timbre, organic delivery)
-- Strong pulse ↔ Beatless recurrence (pulse is explicit, but non-drum)
+- Tonal anchor ↔ Pitch ambiguity (add a minimal anchor: one pitch only)
+- Strong pulse ↔ Beatless recurrence (pulse stays readable)
+- Static texture ↔ Eventful micro-editing (detail comes from edits, not harmony)
 
 ### Test track
 
-**“Calibration of a Whispered Motor”**
+**“Rust Halo on Linoleum”**
 
 Constraints / intent:
 
-- No drum kit; rhythm from tongue clicks + paper snaps + tiny machine whirr.
-- Whispered counting used as percussion texture, not lead vocal narrative.
-- No chord progression; pitch remains ambiguous (occasional resonant squeal allowed, but not a “note” held as an anchor).
-- Distortion increases by section, but dynamics stay controlled (no drop/chorus payoff).
+- NO drum kit; rhythm from heel taps, coin clicks, paper flex, tiny object impacts.
+- One-note drone only (single pitch, slightly detuned / bowed metal); NO chord progression.
+- Micro-edits + phase drift provide motion; avoid “builds.”
+- Saturation only on transients (local), not across the whole mix.
+- Keep it close-mic and dry; minimal reverb.
 
 Structure:
-Intro (air) → A (count + click) → B (thicker grit, phase drift) → Bridge (thin + swallow-silence) → C (densest grit, still steady) → Outro (air return)
+Intro (drone + room tone) → A (pulse enters) → B (denser edits, still steady) → Bridge (pulse thins, drone wavers) → C (max detail, no dynamic spike) → Outro (pulse dissolves, drone remains)
 
 ## What to probe next (avoid premature convergence)
 
 If this scores higher:
 
-- Try _even drier_ minimalism with the same pulse clarity (remove distortion; keep only micro-phase tricks).
-- Try the inverse: same saturation level but _weaken_ the pulse (does it collapse without that foothold?).
+- Try removing the tonal anchor again but keep identical pulse + micro-editing (is the anchor doing real work?).
+- Try the same single-pitch anchor with _weaker_ pulse (does clarity collapse without time footholds?).
 
 If this scores lower:
 
-- The whisper element may read as “vocal content” rather than texture; next attempt could be strictly non-vocal but equally near-field.
-- Saturation may be “too musical” or fatiguing; explore micro-editing without added harmonic/body-weight.
+- The tonal anchor may read as “too musical” even without chords; next attempt could be fully pitchless but equally structured.
+- The drone might be fatiguing; try “anchor by timbre” instead (recurring sound object) with no stable pitch.
 
 Always:
 
