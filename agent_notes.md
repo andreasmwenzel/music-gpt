@@ -2,80 +2,71 @@
 
 ## Current state (what we actually know)
 
-- The library currently has seven rated tracks in the table:
-  - “Torque (for Empty Rooms)” rated 2.
-  - “Vowel Glass Garden” rated 3.
-  - “Two Chords, Many Rooms” rated 3.
-  - “Thin-Wall Metronome” rated 4.
-  - “Rooms Blink While Breathing” rated 5.
-  - “Every Twelve Seconds, a Glass Thread” rated 3.
-  - “Paper Throat Clockwork” rated 6 (highest so far).
+- Seven rated tracks exist so far; best score is “Paper Throat Clockwork” (6).
+- Mid-pack scores cluster around 3–5; the lowest score (2) suggests “clever texture” alone is not sufficient.
 
-## Weak signals (small n, treat as provisional)
+## Weak signals (small n; treat as provisional)
 
-- Readable time-structure + restraint seems to outperform “pleasant texture with no footholds.” :contentReference[oaicite:0]{index=0}
-- Intimate / close-mic / foley-adjacent detail appears promising, especially when it implies a space and a body. :contentReference[oaicite:1]{index=1}
-- Big payoff mechanics are likely counterproductive. :contentReference[oaicite:2]{index=2}
+- Legible time-feel + restraint has _so far_ outperformed “pleasant texture with no footholds.”
+- Intimate/close-mic detail (foley-adjacent, bodily implication) seems promising.
+- “Payoff mechanics” (big drops, obvious builds) are likely counterproductive.
 
 ## Working exploration axes (keep broad)
 
-1. Restraint ↔ Saturation :contentReference[oaicite:3]{index=3}
-2. Static texture ↔ Eventful micro-editing :contentReference[oaicite:4]{index=4}
-3. Cold/clinical ↔ Warm/organic :contentReference[oaicite:5]{index=5}
-4. Beatless recurrence ↔ Strong pulse :contentReference[oaicite:6]{index=6}
-5. Purely synthetic ↔ Field/foley realism :contentReference[oaicite:7]{index=7}
-6. Long drift ↔ Tight sectional forms :contentReference[oaicite:8]{index=8}
-7. Menacing ↔ Playful :contentReference[oaicite:9]{index=9}
-8. Tonal anchor ↔ Pitch ambiguity :contentReference[oaicite:10]{index=10}
-9. Stable space ↔ Active spatial motion :contentReference[oaicite:11]{index=11}
-10. Predictable recurrence ↔ Amorphous time :contentReference[oaicite:12]{index=12}
+1. Restraint ↔ Saturation
+2. Static texture ↔ Eventful micro-editing
+3. Cold/clinical ↔ Warm/organic
+4. Beatless recurrence ↔ Strong pulse
+5. Purely synthetic ↔ Field/foley realism
+6. Long drift ↔ Tight sectional forms
+7. Menacing ↔ Playful
+8. Tonal anchor ↔ Pitch ambiguity
+9. Stable space ↔ Active spatial motion
+10. Predictable recurrence ↔ Amorphous time
 
-## Carry-forward hypothesis (treat as a hypothesis, not a law)
+## Carry-forward hypothesis (do not treat as law)
 
-- “Clarity” may be the attractive property: a piece can work without harmony if time-feel is legible and the mix is intimate/dry (supported by “Paper Throat Clockwork” scoring highest so far).
+- “Clarity” might be the attractive property: the track can avoid harmony if time-structure is readable and the mix stays dry/intimate.
 
 ## What this agent is testing
 
 ### Hypothesis (testable)
 
-If foley-driven pulse + restraint is working, then adding a _single_ tonal anchor (one sustained pitch) might improve “foothold” without introducing chord narrative.
+Saturation/distortion can still work _if_ the pulse remains readable and the mix stays near-field (bodily, dry), avoiding “festival” dynamics.
 
-Test axis focus:
+Primary axis focus:
 
-- Strong pulse ↔ Beatless recurrence (hybrid: drip as timekeeper, but not a “beat”)
-- Tonal anchor ↔ Pitch ambiguity (anchor is present but static)
-- Stable space ↔ Active spatial motion (mostly stable; only subtle widening in one section)
+- Restraint ↔ Saturation (push saturation locally, not globally)
+- Cold/clinical ↔ Warm/organic (cold timbre, organic delivery)
+- Strong pulse ↔ Beatless recurrence (pulse is explicit, but non-drum)
 
 ### Test track
 
-**“Dripline in a Small Dark Room”**
+**“Calibration of a Whispered Motor”**
 
 Constraints / intent:
 
-- Slow tempo (~55 BPM) implied by recurring water drip; the drip is the clock.
-- Exactly one tonal anchor: a quiet low hum on a single pitch (no movement, no chord progression).
-- No drum kit, no conventional percussion hits, no melody lead.
-- Palette: water drip + room tone + cloth friction + fingertip glass rub + very sparse bowed metal glints.
-- Micro-development only: density and stereo width changes; silences used as punctuation.
+- No drum kit; rhythm from tongue clicks + paper snaps + tiny machine whirr.
+- Whispered counting used as percussion texture, not lead vocal narrative.
+- No chord progression; pitch remains ambiguous (occasional resonant squeal allowed, but not a “note” held as an anchor).
+- Distortion increases by section, but dynamics stay controlled (no drop/chorus payoff).
 
 Structure:
-Intro (room) → A (drip + anchor) → B (add glass rub, slightly wider) → C (bare) → A’ (return thinner) → Outro (anchor gone; drip + room)
+Intro (air) → A (count + click) → B (thicker grit, phase drift) → Bridge (thin + swallow-silence) → C (densest grit, still steady) → Outro (air return)
 
 ## What to probe next (avoid premature convergence)
 
 If this scores higher:
 
-- Keep the “single anchor” idea, but vary only one axis at a time:
-  - move the anchor up into a fragile mid-frequency tone (still one pitch),
-  - increase pulse clarity (from drip to click) while staying non-drum,
-  - keep tempo slow but tighten sectional form (shorter, more explicit returns).
+- Try _even drier_ minimalism with the same pulse clarity (remove distortion; keep only micro-phase tricks).
+- Try the inverse: same saturation level but _weaken_ the pulse (does it collapse without that foothold?).
 
 If this scores lower:
 
-- The tonal anchor might be the problem (too much “music” vs “space”).
-- Try the inverse: beatless recurring marker with _no_ anchor, but stronger spatial motion, or a warmer “body” texture without pitch.
+- The whisper element may read as “vocal content” rather than texture; next attempt could be strictly non-vocal but equally near-field.
+- Saturation may be “too musical” or fatiguing; explore micro-editing without added harmonic/body-weight.
 
 Always:
 
-- Audible constraints over genre labels.
-- No payoff mechanics; returns + micro-change should carry the narrative.
+- Favor audible constraints over genre labels.
+- Avoid payoff mechanics; rely on returns, micro-change, and mix proximity.

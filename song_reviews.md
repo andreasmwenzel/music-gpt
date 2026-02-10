@@ -8,3 +8,4 @@
 | Every Twelve Seconds, a Glass Thread | ambient experimental    | glass-chime, non-rhythmic, negative-space, microtonal        | 3      |
 | Paper Throat Clockwork               | experimental electronic | foley-percussion, asymmetric-pulse, dry-intimate, no-harmony | 6      |
 | Dripline in a Small Dark Room        | ambient electronic      | slow-pulse, single-tone, water-foley, nocturnal              |        |
+| Calibration of a Whispered Motor     | electronic              | click-pulse, near-field, controlled-distortion, phase-drift  |        |
