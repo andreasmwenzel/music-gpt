@@ -2,53 +2,80 @@
 
 ## Current state (what we actually know)
 
-- The library has four _rated_ tracks so far:
+- The library currently has seven rated tracks in the table:
   - “Torque (for Empty Rooms)” rated 2.
   - “Vowel Glass Garden” rated 3.
   - “Two Chords, Many Rooms” rated 3.
-  - “Thin-Wall Metronome” rated 4 (highest so far).
-- There is at least one _unrated_ probe currently in the table (“Rooms Blink While Breathing”).
-- Weak signal only (small n): **readable time-structure + restraint** (especially intimate/foley-adjacent) may outperform purely textural “pleasant space.”
+  - “Thin-Wall Metronome” rated 4.
+  - “Rooms Blink While Breathing” rated 5.
+  - “Every Twelve Seconds, a Glass Thread” rated 3.
+  - “Paper Throat Clockwork” rated 6 (highest so far).
 
-## What this agent tested
+## Weak signals (small n, treat as provisional)
 
-### Hypothesis (testable, not a belief)
-
-If “clarity” is the attractive property, it may not require an actual beat/pulse.
-**A beatless piece can still land if it has one recurring, legible gesture** that functions like timekeeping, while harmony stays soft and non-menacing.
-
-### Test track
-
-**“Every Twelve Seconds, a Glass Thread”**
-
-Constraints / intent:
-
-- No tempo; no drums; no groove.
-- A single recurring marker: a quiet glass strike approximately every 12 seconds (sometimes doubled slightly detuned for beating).
-- Harmony is a gentle overtone stack (low sine + bowed metal/cymbal breath): no chord changes, no lead melody, no hook.
-- Development is _micro_:
-  - timbral focus shifts (contact-mic intimacy ↔ airy overtone haze),
-  - stereo drift and “focus” changes (narrow → wide),
-  - density stays low; silence remains a compositional element.
-- Structure: Intro (near-silent) → A (marker + thin bed) → B (slightly richer overtones, same recurrence) → C (collapse to hiss + distant harmonics).
-- No payoff mechanics: no risers, drops, or “big moment.”
+- Readable time-structure + restraint seems to outperform “pleasant texture with no footholds.” :contentReference[oaicite:0]{index=0}
+- Intimate / close-mic / foley-adjacent detail appears promising, especially when it implies a space and a body. :contentReference[oaicite:1]{index=1}
+- Big payoff mechanics are likely counterproductive. :contentReference[oaicite:2]{index=2}
 
 ## Working exploration axes (keep broad)
 
-1. Restraint ↔ Saturation
-2. Static texture ↔ Eventful micro-editing
-3. Cold/clinical ↔ Warm/organic
-4. Non-rhythmic ↔ Strong pulse/groove
-5. Purely synthetic ↔ Field-recording realism
-6. Long-form drift ↔ Tight sectional forms
-7. Menacing ↔ Playful
-8. Tonal anchor ↔ Pitch ambiguity/instability
-9. Stable space ↔ Aggressive spatial motion/teleportation
-10. Dry intimacy ↔ Distant/hallucinatory ambience
-11. Predictable recurrence ↔ Amorphous time
+1. Restraint ↔ Saturation :contentReference[oaicite:3]{index=3}
+2. Static texture ↔ Eventful micro-editing :contentReference[oaicite:4]{index=4}
+3. Cold/clinical ↔ Warm/organic :contentReference[oaicite:5]{index=5}
+4. Beatless recurrence ↔ Strong pulse :contentReference[oaicite:6]{index=6}
+5. Purely synthetic ↔ Field/foley realism :contentReference[oaicite:7]{index=7}
+6. Long drift ↔ Tight sectional forms :contentReference[oaicite:8]{index=8}
+7. Menacing ↔ Playful :contentReference[oaicite:9]{index=9}
+8. Tonal anchor ↔ Pitch ambiguity :contentReference[oaicite:10]{index=10}
+9. Stable space ↔ Active spatial motion :contentReference[oaicite:11]{index=11}
+10. Predictable recurrence ↔ Amorphous time :contentReference[oaicite:12]{index=12}
 
-## What seems worth probing next (avoid premature convergence)
+## Carry-forward hypothesis (treat as a hypothesis, not a law)
 
-- If “Every Twelve Seconds, a Glass Thread” scores higher:
-  - Keep “recurring marker” but swap the marker material (water-drip, match strike, coin roll, throat-click), staying beatless.
-  - Push further into silence (fewer events; longer gaps) while preserving the l
+- “Clarity” may be the attractive property: a piece can work without harmony if time-feel is legible and the mix is intimate/dry (supported by “Paper Throat Clockwork” scoring highest so far).
+
+## What this agent is testing
+
+### Hypothesis (testable)
+
+If foley-driven pulse + restraint is working, then adding a _single_ tonal anchor (one sustained pitch) might improve “foothold” without introducing chord narrative.
+
+Test axis focus:
+
+- Strong pulse ↔ Beatless recurrence (hybrid: drip as timekeeper, but not a “beat”)
+- Tonal anchor ↔ Pitch ambiguity (anchor is present but static)
+- Stable space ↔ Active spatial motion (mostly stable; only subtle widening in one section)
+
+### Test track
+
+**“Dripline in a Small Dark Room”**
+
+Constraints / intent:
+
+- Slow tempo (~55 BPM) implied by recurring water drip; the drip is the clock.
+- Exactly one tonal anchor: a quiet low hum on a single pitch (no movement, no chord progression).
+- No drum kit, no conventional percussion hits, no melody lead.
+- Palette: water drip + room tone + cloth friction + fingertip glass rub + very sparse bowed metal glints.
+- Micro-development only: density and stereo width changes; silences used as punctuation.
+
+Structure:
+Intro (room) → A (drip + anchor) → B (add glass rub, slightly wider) → C (bare) → A’ (return thinner) → Outro (anchor gone; drip + room)
+
+## What to probe next (avoid premature convergence)
+
+If this scores higher:
+
+- Keep the “single anchor” idea, but vary only one axis at a time:
+  - move the anchor up into a fragile mid-frequency tone (still one pitch),
+  - increase pulse clarity (from drip to click) while staying non-drum,
+  - keep tempo slow but tighten sectional form (shorter, more explicit returns).
+
+If this scores lower:
+
+- The tonal anchor might be the problem (too much “music” vs “space”).
+- Try the inverse: beatless recurring marker with _no_ anchor, but stronger spatial motion, or a warmer “body” texture without pitch.
+
+Always:
+
+- Audible constraints over genre labels.
+- No payoff mechanics; returns + micro-change should carry the narrative.
