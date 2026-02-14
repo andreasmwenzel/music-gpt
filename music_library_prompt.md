@@ -6,13 +6,18 @@ Generate 5 new Suno songs per run that match my taste while still exploring vari
 
 ## Task
 
-Before writing songs, briefly research what makes a strong Suno prompt and apply those best practices. Then study output.md and two random history files in genre-lists.
+Before writing songs, do a quick prompt-quality pass and keep it lightweight:
+
+1. If web access is available, quickly check one Suno prompting reference and apply the best practices.
+2. If web access is unavailable, proceed without blocking and use known best practices.
+3. Study `output.md` and exactly two genre history files in `genre-lists`: use the two highest-count genres from `output.md` `### Total Counts` (tie-break alphabetically).
 
 Create exactly 5 songs from the genre pool below and use history to avoid repeats:
 
 1. Do not repeat the same primary genre twice in one run.
-2. Do not reuse titles or near-identical prompts from previous runs.
+2. Do not reuse titles or near-identical prompts from previous runs. Treat near-identical as >= 70% overlap of meaningful words.
 3. Keep each song distinct in mood, energy, instrumentation, and arrangement.
+4. Assign exactly one primary genre per song from `## Genres to Generate`.
 
 ## Prompt Rules
 
@@ -20,7 +25,8 @@ Each song must include:
 
 1. One style prompt for Suno (200 characters or less).
 2. One lyrics-generation prompt (200 characters or less), unless instrumental.
-3. If instrumental, add `[Instrumental]` to the title and set lyrics prompt to `Instrumental`.
+3. If instrumental, set lyrics prompt to `Instrumental`.
+4. Character limits apply to prompt text only (not the `Prompt:` / `Lyrics Prompt:` labels).
 
 ## Canonical Output Files
 
@@ -36,10 +42,17 @@ Do both actions:
 1. Update `## History` -> `### Total Counts` table at the top.
 2. Replace the entire `## Today` section with exactly 5 new songs.
 
+`### Total Counts` rules:
+
+1. `## Genres to Generate` is the source of truth for the active generation pool.
+2. Keep existing rows in `### Total Counts` for historical continuity, even if a genre is no longer in `## Genres to Generate`.
+3. Ensure every genre in `## Genres to Generate` exists in the table (add missing ones with count `0`).
+4. After updating counts, sort the entire table by `Count` (descending), then by `Genre` (alphabetically ascending).
+
 Use this exact `## Today` entry style:
 
 ```md
-### <index>. <Song Title>[Instrumental optional]
+### <index>. <Song Title>
 
 Prompt: <style prompt, <= 200 chars>
 
@@ -53,7 +66,7 @@ Why chosen: <2-3 sentences on fit + uniqueness>
 For each song, append to the appropriate genre file using this exact style:
 
 ```md
-## <Song Title without [Instrumental]>
+## <Song Title>
 
 ### Style
 
@@ -64,15 +77,15 @@ For each song, append to the appropriate genre file using this exact style:
 <lyrics prompt OR Instrumental>
 ```
 
-If a genre file does not exist, create it using dash-case-naming:
+If a genre file does not exist, create it with a lowercase dash-case filename (example: `drum-and-bass.md`) and this title format:
 
 ```md
-# <genre-Name>
+# <Genre Name in Title Case>
 ```
 
 Then append entries in the same style above.
 
-## Genres I Like
+## Genres to Generate
 
 Metal, punk rock, alternative rock, EDM, dubstep, synthwave, drum and bass, electro-swing, pop-punk, industrial rock, folk metal, darkwave, chiptune rock, glitch hop, trip hop, post-punk, shoegaze
 

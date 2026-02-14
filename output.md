@@ -4,54 +4,64 @@
 
 ### Total Counts
 
-| Genre         | Count |
-| ------------- | ----- |
-| Darkwave      | 1     |
-| Drum and Bass | 1     |
-| Folk Metal    | 1     |
-| Metal         | 1     |
-| Shoegaze      | 1     |
-| Synthwave     | 1     |
-| Trip Hop      | 1     |
+| Genre            | Count |
+| ---------------- | ----- |
+| Alternative Rock | 1     |
+| Chiptune Rock    | 1     |
+| Darkwave         | 1     |
+| Drum and Bass    | 1     |
+| Dubstep          | 1     |
+| EDM              | 1     |
+| Electro-Swing    | 1     |
+| Folk Metal       | 1     |
+| Glitch Hop       | 1     |
+| Industrial Rock  | 1     |
+| Metal            | 1     |
+| Pop-Punk         | 1     |
+| Post-Punk        | 1     |
+| Punk Rock        | 1     |
+| Shoegaze         | 1     |
+| Synthwave        | 1     |
+| Trip Hop         | 1     |
 
 ## Today
 
-### 1. Neon Exit Velocity
+### 1. Fluorescent Shoulder
 
-Prompt: Cinematic synthwave, 118 BPM. Pulsing analog bass, bright arps, wide tom fills, soaring chorus vocal, sidechain pads, key-change final chorus, clean mix, no guitar solos.
+Prompt: Anthemic alternative rock, 136 BPM. Crunchy rhythm guitars, melodic lead line, tight live drums, warm bass, earnest tenor vocal, quiet verse into explosive chorus, short bridge.
 
-Lyrics Prompt: Write lyrics for Neon Exit Velocity: night freeway escape, blue lights, hope after burnout. Verse/chorus/bridge, concise images, big singalong hook, PG language, end on sunrise.
+Lyrics Prompt: Write lyrics for Fluorescent Shoulder: late-shift city nights, carrying friends through burnout, finding small wins. Verse/chorus/bridge, concrete images, singable hook, PG tone.
 
-Why chosen: This fits your electronic side while keeping structure explicit for stronger Suno outputs. It contrasts the darker prior tracks with bright momentum and a melodic chorus focus. The arrangement cue and key-change ending keep it distinct.
+Why chosen: This seeds alternative rock with a clear quiet-loud dynamic and strong melodic center. The prompt is specific on instrumentation and arrangement, which should help consistency. It also avoids overlap with the heavier punk and industrial entries.
 
-### 2. Briar Crown Oath
+### 2. 8-Bit Heartline
 
-Prompt: Folk metal at 154 BPM. Galloping drums, tremolo guitars, fiddle and tin whistle leads, gang-chant chorus, minor-key verse to triumphant major chorus, tight 3:30 arrangement.
+Prompt: Chiptune rock, 164 BPM. Square-wave arps, bitcrushed lead, palm-muted guitars, snappy acoustic drums, dual vocal shouts, stop-start pre-chorus, soaring chorus, playful aggression.
 
-Lyrics Prompt: Write lyrics for Briar Crown Oath: forest rebellion, old vows, iron and cedar. Verse/chorus/bridge, mythic imagery, chantable refrain, no archaic overload, finish victorious.
+Lyrics Prompt: Write lyrics for 8-Bit Heartline: arcade lights, missed calls, retrying love after mistakes. Verse/chorus/bridge, punchy phrasing, repeated hook, no nostalgia cliches, upbeat close.
 
-Why chosen: This targets folk metal directly with concrete instrument calls and a clear section arc. It gives you a heavier anthem but avoids repeating the industrial flavor from earlier metal history. The tonal shift from minor to major adds a fresh lift.
+Why chosen: This establishes chiptune rock with explicit chip timbres plus live-band energy. The style prompt includes arrangement checkpoints to prevent a flat loop. It stays unique by blending playful tones with a driving rock chorus.
 
-### 3. Mercury Lane Pressure [Instrumental]
+### 3. Subzero Warning
 
-Prompt: High-energy drum and bass instrumental, 174 BPM. Reese bass, crisp amen edits, airy pads, filter-rise drops, switch to halftime middle eight, no vocals, punchy sub and clean highs.
+Prompt: Modern dubstep, 148 BPM. Ominous intro pad, spoken hype line, syncopated growl-bass drops, triplet fills, crisp snare, fake-out second drop, sparse break, heavy clean sub.
 
-Lyrics Prompt: Instrumental
+Lyrics Prompt: Write lyrics for Subzero Warning: storm sirens, blackout streets, moving as one through chaos. Short verses, pre-drop chant, simple chorus phrase, tense mood, resilient finish.
 
-Why chosen: This introduces high-speed rhythmic variety and keeps the run from over-indexing on vocal songs. The prompt is tightly audible, with breakbeat, bass design, and arrangement switches spelled out. It is also clearly separated from synthwave by tempo and drum language.
+Why chosen: This fills the dubstep slot with concrete drop architecture and bass-design cues. The prompt should produce clearer contrast between intro, drops, and break sections. It adds high-impact electronic weight without repeating drum and bass pacing.
 
-### 4. Velvet Static Letters
+### 4. Brassline Roulette
 
-Prompt: Smoky trip hop, 92 BPM. Dusty breakbeat, upright bass, Rhodes chords, vinyl crackle, intimate alto vocal, sparse verses and late chorus bloom, tape-saturated texture.
+Prompt: Electro-swing at 124 BPM. Walking upright bass, brass stabs, gypsy-jazz guitar, four-on-floor kick, female lead vocal, scat ad-libs, clarinet breakdown, glossy club mix.
 
-Lyrics Prompt: Write lyrics for Velvet Static Letters: unsent messages, midnight kitchen light, quiet regret turning to resolve. Free-verse verses with short chorus line, intimate tone, no profanity.
+Lyrics Prompt: Write lyrics for Brassline Roulette: smoky dance hall, risky charm, choosing joy over fear. Verse/chorus/bridge, witty lines, call-and-response hook, PG tone, confident end.
 
-Why chosen: This pushes into low-tempo, textural mood with a very different groove profile than the other picks. Specific production cues should help Suno land the desired atmosphere quickly. The lyrical concept stays personal and restrained to avoid overlap with epic themes.
+Why chosen: This seeds electro-swing with unmistakable acoustic and dance-floor markers. The instrumentation constraints should keep the genre identity strong. It also broadens palette variety with brighter groove and theatrical vocal phrasing.
 
-### 5. Saltglass Reverie
+### 5. Parking Lot Polaroids
 
-Prompt: Dreamy shoegaze, 128 BPM. Layered fuzz guitars, driving bass, motorik drums, breathy duet vocal, wall-of-sound chorus, brief clean bridge, end with swirling feedback tail.
+Prompt: Pop-punk, 178 BPM. Bright power chords, driving bass, punchy drums, nasal lead vocal, gang backups, verse to huge chorus, quick halftime bridge, polished energetic mix.
 
-Lyrics Prompt: Write lyrics for Saltglass Reverie: ocean haze, blurred memories, holding on without closure. Verse/chorus/bridge, impressionistic images, repeated hook phrase, gentle but determined voice.
+Lyrics Prompt: Write lyrics for Parking Lot Polaroids: old friends, summer rain, promises that almost broke. Verse/chorus/bridge, conversational lines, memorable hook, no profanity, bittersweet hopeful close.
 
-Why chosen: This delivers guitar-heavy haze without repeating metal aggression. The prompt includes concrete mix and arrangement landmarks so the song can build dynamically instead of staying flat. Its emotional tone is wistful but forward-moving, unique in this set.
+Why chosen: This completes the seeded set with a punchy pop-punk entry built for hook density. The prompt balances polish with energy using explicit section cues. It remains distinct from punk rock via cleaner production and melodic emphasis.
