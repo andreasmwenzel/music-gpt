@@ -8,4 +8,4 @@ Modern dubstep, 148 BPM. Ominous intro pad, spoken hype line, syncopated growl-b
 
 ### Lyrics
 
-Write lyrics for Subzero Warning (Dubstep): storm-night survival. Sparse short verses, one spoken hype line, pre-drop chant, clipped chorus for syncopated drops, dark mood, resilient close.
+Instrumental
