@@ -8,60 +8,60 @@
 | ---------------- | ----- |
 | Alternative Rock | 1     |
 | Chiptune Rock    | 1     |
+| Drum and Bass    | 1     |
 | Dubstep          | 1     |
+| EDM              | 1     |
 | Electro-Swing    | 1     |
+| Industrial Rock  | 1     |
+| Metal            | 1     |
 | Pop-Punk         | 1     |
+| Synthwave        | 1     |
 | Darkwave         | 0     |
-| Drum and Bass    | 0     |
-| EDM              | 0     |
 | Folk Metal       | 0     |
 | Glitch Hop       | 0     |
-| Industrial Rock  | 0     |
-| Metal            | 0     |
 | Post-Punk        | 0     |
 | Punk Rock        | 0     |
 | Shoegaze         | 0     |
-| Synthwave        | 0     |
 | Trip Hop         | 0     |
 
 ## Today
 
-### 1. Fluorescent Shoulder
+### 1. Iron Bloom Static
 
-Prompt: Anthemic alternative rock, 136 BPM. Crunchy rhythm guitars, melodic lead line, tight live drums, warm bass, earnest tenor vocal, quiet verse into explosive chorus, short bridge.
+Prompt: Modern metal, 158 BPM. Down-tuned chugs, double-kick drive, dissonant lead bends, wide tom fills, harsh verse scream to clean chorus, half-time breakdown, tight gated room reverb.
 
-Lyrics Prompt: Write lyrics for Fluorescent Shoulder (Alternative Rock): gritty night-shift hope, earnest tenor. Quiet reflective verses, explosive anthemic chorus, concrete images, PG tone, resilient ending.
+Lyrics Prompt: Write lyrics for Iron Bloom Static (Metal): pressure-cooker resolve in a collapsing city. Harsh clipped verses, clean hook chorus, concrete steel-and-sparks imagery, stern but hopeful close.
 
-Why chosen: This seeds alternative rock with a clear quiet-loud dynamic and strong melodic center. The prompt is specific on instrumentation and arrangement, which should help consistency. It also avoids overlap with the heavier punk and industrial entries.
+Why chosen: This metal track emphasizes contrast between harsh and melodic vocals while keeping a focused modern mix. The arrangement cues create clear section changes and avoid overlap with electronic entries.
 
-### 2. 8-Bit Heartline
+### 2. Midnight Circuit Glass
 
-Prompt: Chiptune rock, 164 BPM. Square-wave arps, bitcrushed lead, palm-muted guitars, snappy acoustic drums, dual vocal shouts, stop-start pre-chorus, soaring chorus, playful aggression.
+Prompt: Cinematic synthwave, 112 BPM. Pulsing analog bass, chorus-soaked pads, arpeggiated plucks, Linn-style snare, airy female lead, restrained verse, neon-lift chorus, instrumental outro swell.
 
-Lyrics Prompt: Write lyrics for 8-Bit Heartline (Chiptune Rock): playful-defiant arcade romance. Punchy short lines, stop-start pre-chorus, dual-shout chorus, repeat one hook, bright tone, no nostalgia cliches.
+Lyrics Prompt: Write lyrics for Midnight Circuit Glass (Synthwave): neon solitude on empty highways. Intimate airy diction, restrained verses, expansive chorus, late-night momentum, bittersweet forward motion.
 
-Why chosen: This establishes chiptune rock with explicit chip timbres plus live-band energy. The style prompt includes arrangement checkpoints to prevent a flat loop. It stays unique by blending playful tones with a driving rock chorus.
+Why chosen: This introduces a slower, atmospheric electronic mood with strong retro-futurist textures. It stays distinct by prioritizing glide and space instead of drop-heavy aggression.
 
-### 3. Subzero Warning
+### 3. Ink in the Kick Drum
 
-Prompt: Modern dubstep, 148 BPM. Ominous intro pad, spoken hype line, syncopated growl-bass drops, triplet fills, crisp snare, fake-out second drop, sparse break, heavy clean sub.
+Prompt: Trip hop, 92 BPM. Dusty breakbeat, upright bass loop, tremolo Rhodes, vinyl crackle, whispered alto vocal, roomy snare, noir verse, hooky minor-key refrain, sparse tape-delay ad-libs.
 
-Lyrics Prompt: Write lyrics for Subzero Warning (Dubstep): storm-night survival. Sparse short verses, one spoken hype line, pre-drop chant, clipped chorus for syncopated drops, dark mood, resilient close.
+Lyrics Prompt: Write lyrics for Ink in the Kick Drum (Trip Hop): rain-soaked noir confession. Whispered intimate lines, slow-burn pacing, minor-key refrain, tactile city-night details, guarded vulnerability.
 
-Why chosen: This fills the dubstep slot with concrete drop architecture and bass-design cues. The prompt should produce clearer contrast between intro, drops, and break sections. It adds high-impact electronic weight without repeating drum and bass pacing.
+Why chosen: This song brings low-tempo tension and organic texture to diversify pacing across the set. The noir framing and whispered delivery keep it separate from brighter synthwave and heavier metal.
 
-### 4. Brassline Roulette
+### 4. Conveyor Halo
 
-Prompt: Electro-swing at 124 BPM. Walking upright bass, brass stabs, gypsy-jazz guitar, four-on-floor kick, female lead vocal, scat ad-libs, clarinet breakdown, glossy club mix.
+Prompt: Industrial rock, 132 BPM. Distorted drum-machine/live-kit layers, grinding bass synth, serrated guitars, baritone lead, clipped verse phrasing, chant chorus, breakdown with factory FX hits.
 
-Lyrics Prompt: Write lyrics for Brassline Roulette (Electro-Swing): smoky speakeasy flirtation with witty swagger. Rhythmic phrasing, female lead plus scat ad-libs, call-and-response chorus, playful PG confidence.
+Lyrics Prompt: Write lyrics for Conveyor Halo (Industrial Rock): workers reclaim rhythm from machinery. Baritone clipped verses, chantable chorus, metallic imagery, aggressive cadence, uprising energy.
 
-Why chosen: This seeds electro-swing with unmistakable acoustic and dance-floor markers. The instrumentation constraints should keep the genre identity strong. It also broadens palette variety with brighter groove and theatrical vocal phrasing.
+Why chosen: This track adds percussive mechanical force while still staying in rock song form. The vocal and sound-design choices make it intense but different from pure metal weight.
 
-### 5. Parking Lot Polaroids
+### 5. Photon Chase Relay
 
-Prompt: Pop-punk, 178 BPM. Bright power chords, driving bass, punchy drums, nasal lead vocal, gang backups, verse to huge chorus, quick halftime bridge, polished energetic mix.
+Prompt: Drum and bass, 174 BPM. Rolling reese bass, chopped amen breaks, bright supersaw chords, male lead with rapid phrasing, tension-building pre-drop, euphoric chorus lift, sub-heavy final drop.
 
-Lyrics Prompt: Write lyrics for Parking Lot Polaroids (Pop-Punk): fast bittersweet summer fallout. Conversational verses, gang-backup chorus chant, simple rhyme punches, no profanity, hopeful final turn.
+Lyrics Prompt: Write lyrics for Photon Chase Relay (Drum and Bass): high-speed night run toward first light. Rapid breathless verses, uplifting chorus release, kinetic urban visuals, urgent but optimistic voice.
 
-Why chosen: This completes the seeded set with a punchy pop-punk entry built for hook density. The prompt balances polish with energy using explicit section cues. It remains distinct from punk rock via cleaner production and melodic emphasis.
+Why chosen: This closes the run with high-BPM momentum and clear dance-floor architecture. It contrasts the darker midtempo tracks by leaning into lift, speed, and a cathartic final drop.
