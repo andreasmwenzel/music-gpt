@@ -1,6 +1,17 @@
-# Today
+# Report
 
-## 1. Iron Static Prayer
+## History
+
+### Total Counts
+
+| Genre    | Count |
+| -------- | ----- |
+| Metal    | 1     |
+| Darkwave | 1     |
+
+## Today
+
+### 1. Iron Static Prayer
 
 Prompt: Aggressive metal with industrial pulse, 158 BPM. Downtuned riffs, punchy double-kick, shouted hook, glitchy synth stabs, half-time breakdown, no ballad section, finish with a tight final stop.
 
@@ -8,7 +19,7 @@ Lyrics: Write dark industrial-metal lyrics for Iron Static Prayer: urban decay, 
 
 Why chosen: This uses high-clarity prompt ingredients that generally improve Suno outputs: explicit BPM, concrete instrumentation, vocal style, and arrangement cue. It stays unique in this batch by pairing heavy metal energy with industrial glitch texture instead of melodic space.
 
-## 2. Midnight Cathode [Instrumental]
+### 2. Midnight Cathode [Instrumental]
 
 Title: Midnight Cathode [Instrumental]
 Prompt: Moody darkwave instrumental, 122 BPM. Analog bassline, chorus-soaked guitars, cold synth arps, gated reverb snare, slow-build arrangement, no vocal chops, end in a long twilight fade.
