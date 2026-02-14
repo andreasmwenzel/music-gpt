@@ -8,4 +8,4 @@ Chiptune rock, 164 BPM. Square-wave arps, bitcrushed lead, palm-muted guitars, s
 
 ### Lyrics
 
-Write lyrics for 8-Bit Heartline: arcade lights, missed calls, retrying love after mistakes. Verse/chorus/bridge, punchy phrasing, repeated hook, no nostalgia cliches, upbeat close.
+Write lyrics for 8-Bit Heartline (Chiptune Rock): playful-defiant arcade romance. Punchy short lines, stop-start pre-chorus, dual-shout chorus, repeat one hook, bright tone, no nostalgia cliches.

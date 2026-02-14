@@ -27,6 +27,8 @@ Each song must include:
 2. One lyrics-generation prompt (200 characters or less), unless instrumental.
 3. If instrumental, set lyrics prompt to `Instrumental`.
 4. Character limits apply to prompt text only (not the `Prompt:` / `Lyrics Prompt:` labels).
+5. Lyrics prompt must reflect the style prompt using at least two concrete style anchors (examples: mood, energy, setting, vocal delivery, rhythmic feel, era/scene tone).
+6. For non-instrumentals, start lyrics prompts as: `Write lyrics for <Song Title> (<Primary Genre>): ...`
 
 ## Canonical Output Files
 
@@ -56,7 +58,7 @@ Use this exact `## Today` entry style:
 
 Prompt: <style prompt, <= 200 chars>
 
-Lyrics Prompt: <lyrics prompt, <= 200 chars OR Instrumental>
+Lyrics Prompt: <Write lyrics for <Song Title> (<Primary Genre>): ... <= 200 chars OR Instrumental>
 
 Why chosen: <2-3 sentences on fit + uniqueness>
 ```
@@ -95,3 +97,4 @@ Metal, punk rock, alternative rock, EDM, dubstep, synthwave, drum and bass, elec
 2. Avoid artist names and direct references to copyrighted songs.
 3. Use a few clear constraints when useful.
 4. Prioritize specificity with enough flexibility for creative variation.
+5. Keep style and lyrics aligned: if the style is aggressive/minimal/dance/atmospheric, the lyrics brief should call for matching diction, pacing, and emotional intensity.

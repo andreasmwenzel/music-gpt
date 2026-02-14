@@ -8,4 +8,4 @@ Electro-swing at 124 BPM. Walking upright bass, brass stabs, gypsy-jazz guitar, 
 
 ### Lyrics
 
-Write lyrics for Brassline Roulette: smoky dance hall, risky charm, choosing joy over fear. Verse/chorus/bridge, witty lines, call-and-response hook, PG tone, confident end.
+Write lyrics for Brassline Roulette (Electro-Swing): smoky speakeasy flirtation with witty swagger. Rhythmic phrasing, female lead plus scat ad-libs, call-and-response chorus, playful PG confidence.

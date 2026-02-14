@@ -8,4 +8,4 @@ Anthemic alternative rock, 136 BPM. Crunchy rhythm guitars, melodic lead line, t
 
 ### Lyrics
 
-Write lyrics for Fluorescent Shoulder: late-shift city nights, carrying friends through burnout, finding small wins. Verse/chorus/bridge, concrete images, singable hook, PG tone.
+Write lyrics for Fluorescent Shoulder (Alternative Rock): gritty night-shift hope, earnest tenor. Quiet reflective verses, explosive anthemic chorus, concrete images, PG tone, resilient ending.

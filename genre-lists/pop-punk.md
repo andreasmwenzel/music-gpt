@@ -8,4 +8,4 @@ Pop-punk, 178 BPM. Bright power chords, driving bass, punchy drums, nasal lead v
 
 ### Lyrics
 
-Write lyrics for Parking Lot Polaroids: old friends, summer rain, promises that almost broke. Verse/chorus/bridge, conversational lines, memorable hook, no profanity, bittersweet hopeful close.
+Write lyrics for Parking Lot Polaroids (Pop-Punk): fast bittersweet summer fallout. Conversational verses, gang-backup chorus chant, simple rhyme punches, no profanity, hopeful final turn.
