@@ -6,7 +6,7 @@ Generate 5 new Suno songs per run that match my taste while still exploring vari
 
 ## Task
 
-Before writing songs, briefly research what makes a strong Suno prompt and apply those best practices. Then study output.md and a couple history files in genre-lists.
+Before writing songs, briefly research what makes a strong Suno prompt and apply those best practices. Then study output.md and two random history files in genre-lists.
 
 Create exactly 5 songs from the genre pool below and use history to avoid repeats:
 
@@ -29,11 +29,7 @@ Each song must include:
 
 ## Required File Updates (Strict)
 
-### 1) Update counts in `music_library_prompt.md`
-
-Update the table in `### Counts` so it stays accurate after adding 5 songs.
-
-### 2) Update `output.md`
+### 1) Update `output.md`
 
 Do both actions:
 
@@ -52,7 +48,7 @@ Lyrics Prompt: <lyrics prompt, <= 200 chars OR Instrumental>
 Why chosen: <2-3 sentences on fit + uniqueness>
 ```
 
-### 3) Append to genre history files in `genre-lists`
+### 2) Append to genre history files in `genre-lists`
 
 For each song, append to the appropriate genre file using this exact style:
 
@@ -68,10 +64,10 @@ For each song, append to the appropriate genre file using this exact style:
 <lyrics prompt OR Instrumental>
 ```
 
-If a genre file does not exist, create it with:
+If a genre file does not exist, create it using dash-case-naming:
 
 ```md
-# <Genre Name in Title Case>
+# <genre-Name>
 ```
 
 Then append entries in the same style above.
