@@ -6,62 +6,62 @@
 
 | Genre            | Count |
 | ---------------- | ----- |
-| Alternative Rock | 1     |
-| Chiptune Rock    | 1     |
+| Alternative Rock | 2     |
+| Chiptune Rock    | 2     |
 | Drum and Bass    | 1     |
 | Dubstep          | 1     |
 | EDM              | 1     |
 | Electro-Swing    | 1     |
+| Folk Metal       | 1     |
+| Glitch Hop       | 1     |
 | Industrial Rock  | 1     |
 | Metal            | 1     |
 | Pop-Punk         | 1     |
+| Shoegaze         | 1     |
 | Synthwave        | 1     |
 | Darkwave         | 0     |
-| Folk Metal       | 0     |
-| Glitch Hop       | 0     |
 | Post-Punk        | 0     |
 | Punk Rock        | 0     |
-| Shoegaze         | 0     |
 | Trip Hop         | 0     |
 
 ## Today
 
-### 1. Iron Bloom Static
+### 1. Glass Riot Summer
 
-Prompt: Modern metal, 158 BPM. Down-tuned chugs, double-kick drive, dissonant lead bends, wide tom fills, harsh verse scream to clean chorus, half-time breakdown, tight gated room reverb.
+Prompt: Alternative rock, 142 BPM. Jagged guitar stabs, rubbery bass, dry punchy drums, urgent alto vocal, tense verse to wide hook chorus, gang-tail outro, minimal reverb.
 
-Lyrics Prompt: Write lyrics for Iron Bloom Static (Metal): pressure-cooker resolve in a collapsing city. Harsh clipped verses, clean hook chorus, concrete steel-and-sparks imagery, stern but hopeful close.
+Lyrics Prompt: Write lyrics for Glass Riot Summer (Alternative Rock): heatwave street unrest turning into unity. Urgent clipped verses, big hook chorus, vivid city details, defiant but hopeful tone.
 
-Why chosen: This metal track emphasizes contrast between harsh and melodic vocals while keeping a focused modern mix. The arrangement cues create clear section changes and avoid overlap with electronic entries.
+Why chosen: This keeps alternative rock in rotation with sharper rhythmic attack and a higher-tempo hook than prior entries. The dry mix and gang-tail finish make it feel fresh without repeating earlier anthemic structures.
 
-### 2. Midnight Circuit Glass
+### 2. Spritefire Overdrive
 
-Prompt: Cinematic synthwave, 112 BPM. Pulsing analog bass, chorus-soaked pads, arpeggiated plucks, Linn-style snare, airy female lead, restrained verse, neon-lift chorus, instrumental outro swell.
+Prompt: Chiptune rock, 168 BPM. FM arps, crunchy square lead, live snare with tom fills, muted guitar chugs, call-and-response vocals, fake-out break, victory-lap final chorus.
 
-Lyrics Prompt: Write lyrics for Midnight Circuit Glass (Synthwave): neon solitude on empty highways. Intimate airy diction, restrained verses, expansive chorus, late-night momentum, bittersweet forward motion.
+Lyrics Prompt: Write lyrics for Spritefire Overdrive (Chiptune Rock): co-op escape through collapsing levels. Fast playful diction, shouted response hooks, high-energy momentum, triumphant finish.
 
-Why chosen: This introduces a slower, atmospheric electronic mood with strong retro-futurist textures. It stays distinct by prioritizing glide and space instead of drop-heavy aggression.
+Why chosen: This entry leans into game-coded tension and release while pushing more live-drum muscle than the previous chiptune cut. The fake-out break and call-response design clearly separate its arrangement profile.
 
-### 3. Ink in the Kick Drum
+### 3. Mossblade Oath
 
-Prompt: Trip hop, 92 BPM. Dusty breakbeat, upright bass loop, tremolo Rhodes, vinyl crackle, whispered alto vocal, roomy snare, noir verse, hooky minor-key refrain, sparse tape-delay ad-libs.
+Prompt: Folk metal, 124 BPM. Fiddle riffs, tin whistle accents, galloping kick, tremolo guitars, choir-backed baritone, tavern-chant pre-chorus, stormy bridge, massive unison finale.
 
-Lyrics Prompt: Write lyrics for Ink in the Kick Drum (Trip Hop): rain-soaked noir confession. Whispered intimate lines, slow-burn pacing, minor-key refrain, tactile city-night details, guarded vulnerability.
+Lyrics Prompt: Write lyrics for Mossblade Oath (Folk Metal): forest clans unite before a winter siege. Mythic imagery, baritone narrative verses, chantable chorus, fierce communal resolve.
 
-Why chosen: This song brings low-tempo tension and organic texture to diversify pacing across the set. The noir framing and whispered delivery keep it separate from brighter synthwave and heavier metal.
+Why chosen: Folk metal adds organic instrumentation and communal chant energy not present in the current history set. It broadens the catalog while still fitting the user's taste for dramatic, high-contrast arrangements.
 
-### 4. Conveyor Halo
+### 4. Subway Ghost Codec
 
-Prompt: Industrial rock, 132 BPM. Distorted drum-machine/live-kit layers, grinding bass synth, serrated guitars, baritone lead, clipped verse phrasing, chant chorus, breakdown with factory FX hits.
+Prompt: Glitch hop, 100 BPM. Stuttered vocal chops, swung drums, sub wobble bursts, detuned keys, sparse rap verse, elastic drop groove, tape-stop fills, nocturnal neon atmosphere.
 
-Lyrics Prompt: Write lyrics for Conveyor Halo (Industrial Rock): workers reclaim rhythm from machinery. Baritone clipped verses, chantable chorus, metallic imagery, aggressive cadence, uprising energy.
+Lyrics Prompt: Write lyrics for Subway Ghost Codec (Glitch Hop): midnight train heist in digital fog. Cool sly verses, syncopated phrasing, fragmented hook, stealthy tension with playful swagger.
 
-Why chosen: This track adds percussive mechanical force while still staying in rock song form. The vocal and sound-design choices make it intense but different from pure metal weight.
+Why chosen: This track explores off-grid groove and rhythmic sound design to diversify the electronic side of the library. Its low-BPM swing and fragmented hook avoid overlap with four-on-the-floor or high-BPM drum styles.
 
-### 5. Photon Chase Relay
+### 5. Velvet Static Shore
 
-Prompt: Drum and bass, 174 BPM. Rolling reese bass, chopped amen breaks, bright supersaw chords, male lead with rapid phrasing, tension-building pre-drop, euphoric chorus lift, sub-heavy final drop.
+Prompt: Shoegaze, 96 BPM. Washed guitars, tremolo haze, soft floor-tom pulse, chorus bass drift, breathy duet, buried verses, luminous chorus bloom, long feedback fade.
 
-Lyrics Prompt: Write lyrics for Photon Chase Relay (Drum and Bass): high-speed night run toward first light. Rapid breathless verses, uplifting chorus release, kinetic urban visuals, urgent but optimistic voice.
+Lyrics Prompt: Write lyrics for Velvet Static Shore (Shoegaze): shoreline memories blur into dawn. Hushed intimate lines, slow dreamy pacing, impressionistic images, aching yet gentle release.
 
-Why chosen: This closes the run with high-BPM momentum and clear dance-floor architecture. It contrasts the darker midtempo tracks by leaning into lift, speed, and a cathartic final drop.
+Why chosen: Shoegaze introduces a dreamy low-intensity palette, balancing the run after several aggressive rhythm-driven tracks. The duet texture and buried vocal treatment give a distinct emotional and sonic identity.
