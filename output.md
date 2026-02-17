@@ -8,6 +8,7 @@
 | ---------------- | ----- |
 | Alternative Rock | 2     |
 | Chiptune Rock    | 2     |
+| Darkwave         | 1     |
 | Drum and Bass    | 1     |
 | Dubstep          | 1     |
 | EDM              | 1     |
@@ -17,51 +18,50 @@
 | Industrial Rock  | 1     |
 | Metal            | 1     |
 | Pop-Punk         | 1     |
+| Post-Punk        | 1     |
+| Punk Rock        | 1     |
 | Shoegaze         | 1     |
 | Synthwave        | 1     |
-| Darkwave         | 0     |
-| Post-Punk        | 0     |
-| Punk Rock        | 0     |
-| Trip Hop         | 0     |
+| Trip Hop         | 2     |
 
 ## Today
 
-### 1. Glass Riot Summer
+### 1. Neon Funeral Bloom
 
-Prompt: Alternative rock, 142 BPM. Jagged guitar stabs, rubbery bass, dry punchy drums, urgent alto vocal, tense verse to wide hook chorus, gang-tail outro, minimal reverb.
+Prompt: Darkwave, 112 BPM. Gloomy analog bass pulse, cold drum machine, chorus-soaked guitar swells, icy mezzo vocal, tense verse, soaring minor-key chorus, cathedral reverb tail.
 
-Lyrics Prompt: Write lyrics for Glass Riot Summer (Alternative Rock): heatwave street unrest turning into unity. Urgent clipped verses, big hook chorus, vivid city details, defiant but hopeful tone.
+Lyrics Prompt: Write lyrics for Neon Funeral Bloom (Darkwave): city blackout vigil turning euphoric. Icy intimate verses, dramatic minor-key hook, candle-and-neon imagery, sorrow to resolve.
 
-Why chosen: This keeps alternative rock in rotation with sharper rhythmic attack and a higher-tempo hook than prior entries. The dry mix and gang-tail finish make it feel fresh without repeating earlier anthemic structures.
+Why chosen: Darkwave was still unused in the active pool, so this expands coverage while matching your moody melodic preferences. The vigil-to-release arc and cathedral ambience keep it distinct from prior electronic tracks.
 
-### 2. Spritefire Overdrive
+### 2. Static Civic Hymn
 
-Prompt: Chiptune rock, 168 BPM. FM arps, crunchy square lead, live snare with tom fills, muted guitar chugs, call-and-response vocals, fake-out break, victory-lap final chorus.
+Prompt: Post-punk, 138 BPM. Driving picked bass, brittle guitars, dry snare, clipped baritone lead, anxious verse groove, wide gang chorus, dissonant bridge, abrupt stop ending.
 
-Lyrics Prompt: Write lyrics for Spritefire Overdrive (Chiptune Rock): co-op escape through collapsing levels. Fast playful diction, shouted response hooks, high-energy momentum, triumphant finish.
+Lyrics Prompt: Write lyrics for Static Civic Hymn (Post-Punk): late-night protest march under flickering signs. Clipped detached verses, chantable chorus, concrete street details, restless but determined tone.
 
-Why chosen: This entry leans into game-coded tension and release while pushing more live-drum muscle than the previous chiptune cut. The fake-out break and call-response design clearly separate its arrangement profile.
+Why chosen: Post-punk adds wiry momentum and spoken-edge delivery absent from the current set. The abrupt-stop structure and anxious bass-led groove prevent overlap with earlier anthem-style rock songs.
 
-### 3. Mossblade Oath
+### 3. Pavement Fist Parade
 
-Prompt: Folk metal, 124 BPM. Fiddle riffs, tin whistle accents, galloping kick, tremolo guitars, choir-backed baritone, tavern-chant pre-chorus, stormy bridge, massive unison finale.
+Prompt: Punk rock, 182 BPM. Buzzsaw guitars, fast 2-beat drums, shouted unison hooks, gang backing yells, no-frills mix, breakneck verses, half-time bridge, explosive final refrain.
 
-Lyrics Prompt: Write lyrics for Mossblade Oath (Folk Metal): forest clans unite before a winter siege. Mythic imagery, baritone narrative verses, chantable chorus, fierce communal resolve.
+Lyrics Prompt: Write lyrics for Pavement Fist Parade (Punk Rock): friends reclaim a dead mall for a DIY show. Rapid punchy lines, shouted hooks, sarcastic grit, rebellious joy, communal ending.
 
-Why chosen: Folk metal adds organic instrumentation and communal chant energy not present in the current history set. It broadens the catalog while still fitting the user's taste for dramatic, high-contrast arrangements.
+Why chosen: Punk rock fills another zero-history lane with maximal urgency and a stripped production profile. The DIY setting and speed-first arrangement keep it sonically separate from pop-punk and alternative entries.
 
-### 4. Subway Ghost Codec
+### 4. Quartz Skyline Run
 
-Prompt: Glitch hop, 100 BPM. Stuttered vocal chops, swung drums, sub wobble bursts, detuned keys, sparse rap verse, elastic drop groove, tape-stop fills, nocturnal neon atmosphere.
+Prompt: EDM, 128 BPM. Four-on-floor kick, sidechained supersaw chords, bright pluck motif, chopped vocal lead, tension riser into huge drop, filtered breakdown, euphoric last chorus.
 
-Lyrics Prompt: Write lyrics for Subway Ghost Codec (Glitch Hop): midnight train heist in digital fog. Cool sly verses, syncopated phrasing, fragmented hook, stealthy tension with playful swagger.
+Lyrics Prompt: Write lyrics for Quartz Skyline Run (EDM): rooftop race at sunrise after an all-night rave. Breathless vivid lines, uplifting hook, kinetic pacing, glittering urban imagery, triumphant release.
 
-Why chosen: This track explores off-grid groove and rhythmic sound design to diversify the electronic side of the library. Its low-BPM swing and fragmented hook avoid overlap with four-on-the-floor or high-BPM drum styles.
+Why chosen: This supplies a pure festival-leaning EDM cut with clearer drop architecture than your glitch/synth variants. The sunrise rooftop narrative adds vivid specificity without repeating past themes.
 
-### 5. Velvet Static Shore
+### 5. Smoke Dial Lullaby
 
-Prompt: Shoegaze, 96 BPM. Washed guitars, tremolo haze, soft floor-tom pulse, chorus bass drift, breathy duet, buried verses, luminous chorus bloom, long feedback fade.
+Prompt: Trip hop, 88 BPM. Lazy breakbeat, upright bass throb, muted trumpet swells, dusty Rhodes, whispered tenor-contralto duet, noir verse, melodic refrain, tape wow flutter.
 
-Lyrics Prompt: Write lyrics for Velvet Static Shore (Shoegaze): shoreline memories blur into dawn. Hushed intimate lines, slow dreamy pacing, impressionistic images, aching yet gentle release.
+Lyrics Prompt: Write lyrics for Smoke Dial Lullaby (Trip Hop): two night-shift callers connect over static. Whispered slow lines, noir tenderness, tactile radio imagery, guarded longing, bittersweet refrain.
 
-Why chosen: Shoegaze introduces a dreamy low-intensity palette, balancing the run after several aggressive rhythm-driven tracks. The duet texture and buried vocal treatment give a distinct emotional and sonic identity.
+Why chosen: Trip hop now gets a contrasting entry centered on duet intimacy instead of solo confession. The muted trumpet and radio motif introduce a fresh cinematic texture while keeping the genre's slow-burn groove.
