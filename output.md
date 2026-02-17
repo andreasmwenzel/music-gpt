@@ -8,60 +8,60 @@
 | ---------------- | ----- |
 | Alternative Rock | 2     |
 | Chiptune Rock    | 2     |
+| Dubstep          | 2     |
 | EDM              | 2     |
+| Folk Metal       | 2     |
+| Glitch Hop       | 2     |
+| Metal            | 2     |
+| Shoegaze         | 2     |
 | Darkwave         | 1     |
 | Drum and Bass    | 1     |
-| Dubstep          | 1     |
 | Electro-Swing    | 1     |
-| Folk Metal       | 1     |
-| Glitch Hop       | 1     |
 | Industrial Rock  | 1     |
-| Metal            | 1     |
 | Pop-Punk         | 1     |
 | Post-Punk        | 1     |
 | Punk Rock        | 1     |
-| Shoegaze         | 1     |
 | Synthwave        | 1     |
 | Trip Hop         | 1     |
 
 ## Today
 
-### 1. Neon Chapel Ash
+### 1. Chromium Heartforge
 
-Prompt: Darkwave, 112 BPM. Gated drums, chorus bass pulse, cold analog pads, baritone vocal with whispered doubles, minor-key verse, towering synth-choir chorus, decaying tape hiss outro.
+Prompt: Metal, 162 BPM. Drop-C chugs, double-kick burst verses, harmonized lead climb, roar-to-clean hook vocal, half-time bridge, massive cymbal swells, clipped room ambience.
 
-Lyrics Prompt: Write lyrics for Neon Chapel Ash (Darkwave): midnight procession through rain-lit ruins. Low solemn diction, hypnotic pacing, sacred-urban imagery, restrained grief opening into fierce resolve.
+Lyrics Prompt: Write lyrics for Chromium Heartforge (Metal): blacksmith crew rebuilding after wildfire. Gritty terse verses, soaring clean hook, sparks-and-anvil imagery, stubborn hopeful resolve.
 
-Why chosen: Darkwave expands the library into brooding synth-rock territory that was missing from prior runs. The baritone delivery and ritual atmosphere keep it distinct from brighter electronic entries.
+Why chosen: Metal returns with a clearer contrast between brutal verses and melodic lift, broadening emotional range inside the genre. The forge imagery gives it a concrete narrative identity distinct from prior city-collapse themes.
 
-### 2. Wireflower Parade
+### 2. Violet Static Shore
 
-Prompt: Post-punk, 138 BPM. Driving picked bass, brittle guitars, snare-forward drums, detached alto vocal, angular verse riff, chant-hook chorus, dubby bridge delay, abrupt stop ending.
+Prompt: Shoegaze, 96 BPM. Washed tremolo guitars, subby bass bloom, soft live drums, breathy alto vocal buried in reverb, hazy verse drift, bright chorus bloom, tape-wobble outro.
 
-Lyrics Prompt: Write lyrics for Wireflower Parade (Post-Punk): workers dancing through surveillance glare. Dry observational verses, clipped phrasing, sardonic hook refrain, tense momentum with flashes of joy.
+Lyrics Prompt: Write lyrics for Violet Static Shore (Shoegaze): dawn walk after sleepless storm. Dreamy fragmented lines, gentle pacing, sea-light imagery, blurred sorrow turning quietly hopeful.
 
-Why chosen: This introduces post-punk's wiry rhythmic focus and social edge without overlapping with recent alternative-rock anthems. The abrupt ending and dubby bridge provide a different structural fingerprint.
+Why chosen: This adds a low-impact, texture-first song to balance the heavier catalog entries. Its submerged vocal approach and gradual bloom create a sonic profile far from the sharper punk and EDM cuts.
 
-### 3. Slow Signal Lanterns
+### 3. Reactor Kite Drop
 
-Prompt: Trip hop, 86 BPM. Dusty breakbeat, upright bass plucks, tremolo Rhodes, muted trumpet swells, intimate mezzo vocal, smoke-thick verse, half-time chorus drift, vinyl crackle texture.
+Prompt: Dubstep, 142 BPM. Sparse intro pads, syncopated growl bass call-response, crisp snare on three, chopped vox stabs, fakeout build, two contrasting drops, gritty stereo widening.
 
-Lyrics Prompt: Write lyrics for Slow Signal Lanterns (Trip Hop): late-night ferry crossing after a hard goodbye. Soft conversational lines, noir imagery, unhurried cadence, bittersweet calm with hidden ache.
+Lyrics Prompt: Write lyrics for Reactor Kite Drop (Dubstep): rooftop signal party before a thunderfront. Short charged lines, kinetic diction, crowd-unison hook, electric sky imagery, reckless joy.
 
-Why chosen: Trip hop adds low-BPM cinematic mood to balance the catalog's high-energy tracks. The jazz-leaning instrumentation and hushed vocal tone make it clearly separate from glitch-driven electronic songs.
+Why chosen: Dubstep gets a second entry with stronger drop contrast and a leaner pre-drop structure. The storm-chasing party concept keeps it energetic without reusing the darker club mood from earlier runs.
 
-### 4. Laser Halo Run
+### 4. Ember Banner Oath
 
-Prompt: EDM, 128 BPM. Four-on-floor kick, bright supersaw stack, plucked synth groove, female lead with vocoder harmonies, tension riser pre-drop, euphoric drop, chopped-vocal post-chorus.
+Prompt: Folk metal, 174 BPM. Galloping drums, trem-picked guitars, fiddle counterline, low choir gang vocals, minor-key verse march, triumphant chorus lift, hand-drum break.
 
-Lyrics Prompt: Write lyrics for Laser Halo Run (EDM): sprinting toward sunrise after an all-night rave. Uplifting concise lines, breathless momentum, collective-we chorus, ecstatic release over steady pulse.
+Lyrics Prompt: Write lyrics for Ember Banner Oath (Folk Metal): mountain village swears mutual defense at winter's edge. Mythic plain diction, marching cadence, fire-and-snow symbols, fierce communal pride.
 
-Why chosen: EDM stays in rotation while shifting toward classic festival uplift and cleaner melodic focus. The vocoder harmonies and chopped-vocal post-chorus avoid overlap with darker club textures.
+Why chosen: Folk metal expands the epic side of the library with acoustic-folk color layered over speed-metal drive. The communal oath storyline gives a distinct lyrical frame compared with individual rebellion tracks.
 
-### 5. Asphalt Anthem Teeth
+### 5. Pixel Alley Fever
 
-Prompt: Punk rock, 182 BPM. Buzzsaw guitars, relentless eighth-note bass, slammed drums, raw unison shouts, 2-chord verse sprint, gang-chorus hook, 12-second solo, crash-stop finale.
+Prompt: Glitch hop, 104 BPM. Swinging boom-bap drums, warped synth bass, bitcrushed plucks, vinyl cuts, playful rap-sing lead, stop-start verse edits, sticky chant hook, punchy sub drops.
 
-Lyrics Prompt: Write lyrics for Asphalt Anthem Teeth (Punk Rock): friends reclaiming their block from corrupt landlords. Fast blunt lines, shouted slogans, sarcastic bite, communal defiance and no-frills urgency.
+Lyrics Prompt: Write lyrics for Pixel Alley Fever (Glitch Hop): night market dancers hacking old arcade rigs. Witty clipped bars, bouncy cadence, neon-tech details, mischievous collective swagger.
 
-Why chosen: Punk rock contributes maximum velocity and stripped-down aggression not yet represented in this reset. Its two-chord sprint and shout-led hook add a new intensity profile across the set.
+Why chosen: Glitch hop returns with a funkier swing and vocal-forward arrangement to diversify groove choices. The arcade-market setting provides vivid imagery while staying clearly separate from cinematic trip-hop moods.
